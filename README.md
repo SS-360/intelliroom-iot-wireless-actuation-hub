@@ -252,19 +252,6 @@ Open the local address printed by Vite. `localhost` and `127.0.0.1` use the UI's
 
 This is an educational prototype, not a certified mains product. AC wiring can cause fatal shock, fire, and equipment damage. Keep low-voltage logic separated from mains conductors, use a suitable closed enclosure and correctly rated components, and have all AC wiring and protection reviewed by a qualified electrician before energizing any load. Test control logic with loads disconnected first. The presence of an MCB alone does not establish that the assembly is safe.
 
-## Project team
-
-The project was carried out by IV Year Computer Science and Engineering students:
-
-- Suraj Kumar
-- Santhosh.R
-- Sam Sankar.P
-- Sivakumar.M
-- Rithick.C
-- Vittal.R
-
-**Project guide:** Mr. S. Parameswaran, AP/CSE  
-**Institution:** AAA College of Engineering and Technology (Autonomous), Amathur, Sivakasi - 626 005
 
 ## Sustainability context
 
