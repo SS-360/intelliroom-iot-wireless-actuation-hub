@@ -6,8 +6,6 @@
 <p align="center"><strong>IoT Wireless Actuation Hub for Smart Energy Monitoring and Control</strong></p>
 <p align="center">A student-built demonstration prototype combining relay control, a responsive local dashboard, physical inputs, an LCD, and an energy-meter interface.</p>
 
-<p align="center"><a href="docs/IntelliRoom-LinkedIn-Carousel.pdf"><strong>View the IntelliRoom project carousel (PDF)</strong></a> · <a href="docs/IntelliRoom-A3-Project-Poster.pdf">A3 project poster</a></p>
-
 > **Prototype status:** This repository documents a demonstration build, not a certified household installation. The ESP32-to-Uno relay link is one-way, so the interface shows the last commanded relay state rather than independently confirmed contact state. PZEM readings and loaded mains operation still require controlled verification. The thumbnail is illustrative artwork; any values or labels drawn inside it are not measured project data.
 
 ## Project overview
