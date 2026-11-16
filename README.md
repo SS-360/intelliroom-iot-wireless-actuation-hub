@@ -258,11 +258,6 @@ This is an educational prototype, not a certified mains product. AC wiring can c
 IntelliRoom explores themes related to SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, Innovation and Infrastructure), SDG 11 (Sustainable Cities and Communities), and SDG 12 (Responsible Consumption and Production). This is a project-theme alignment, not a claim of SDG certification or measured environmental impact.
 
 ## Project documents
-
-- [Detailed A3 project poster](docs/IntelliRoom-A3-Project-Poster.pdf)
-- [IntelliRoom LinkedIn carousel PDF](docs/IntelliRoom-LinkedIn-Carousel.pdf)
-- [Individual high-resolution carousel slides](docs/carousel-slides/)
-- [Carousel contact sheet preview](docs/IntelliRoom-LinkedIn-Carousel-ContactSheet.jpg)
 - [Component sticker sheet](docs/IntelliRoom-Sticker-Sheet-A4.pdf)
 - [Source images and dashboard screenshots](docs/assets/)
 
