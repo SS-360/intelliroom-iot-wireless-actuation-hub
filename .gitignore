@@ -1,0 +1,12 @@
+.arduino-data/
+.arduino-downloads/
+.arduino-user/
+build/
+dist/
+dashboard/node_modules/
+dashboard/dist/
+dashboard/*.tsbuildinfo
+.env
+.env.*
+!.env.example
+firmware/esp32/IntelliRoomESP32/config.h
